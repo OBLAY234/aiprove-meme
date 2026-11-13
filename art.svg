@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900">
+  <title>AIProve mascot poster — The Provateur</title>
+  <desc>Original vector mascot poster for AIProve. A robot agent mascot in a broadsheet-meets-terminal style: newspaper masthead, terminal screen face, stock-ticker chest, magnifying glass of proof.</desc>
+  <!-- paper -->
+  <rect width="1200" height="900" fill="#f4efe4"/>
+  <rect x="28" y="28" width="1144" height="844" fill="none" stroke="#1a1a1a" stroke-width="3"/>
+  <rect x="40" y="40" width="1120" height="820" fill="none" stroke="#1a1a1a" stroke-width="1"/>
+  <!-- faint column rules (broadsheet) -->
+  <g stroke="#d8d0bd" stroke-width="1">
+    <line x1="300" y1="230" x2="300" y2="700"/>
+    <line x1="900" y1="230" x2="900" y2="700"/>
+  </g>
+  <!-- masthead -->
+  <text x="600" y="130" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="96" font-weight="bold" letter-spacing="6" fill="#1a1a1a">AIProve</text>
+  <text x="600" y="168" text-anchor="middle" font-family="Georgia, serif" font-size="20" letter-spacing="8" fill="#1a1a1a">THE AGENT'S GAZETTE</text>
+  <line x1="120" y1="190" x2="1080" y2="190" stroke="#1a1a1a" stroke-width="2"/>
+  <line x1="120" y1="196" x2="1080" y2="196" stroke="#1a1a1a" stroke-width="1"/>
+  <text x="120" y="216" font-family="Georgia, serif" font-size="15" letter-spacing="2" fill="#1a1a1a">EST. 2026</text>
+  <text x="1080" y="216" text-anchor="end" font-family="Georgia, serif" font-size="15" letter-spacing="2" fill="#1a1a1a">PAID IN STOCK</text>
+  <!-- mascot: antenna -->
+  <line x1="600" y1="250" x2="600" y2="300" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="600" cy="244" r="12" fill="#2e9e5b"/>
+  <circle cx="600" cy="244" r="12" fill="none" stroke="#1a1a1a" stroke-width="3"/>
+  <polygon points="600,232 600,206 648,206 648,232" fill="#2e9e5b" stroke="#1a1a1a" stroke-width="3"/>
+  <text x="624" y="226" text-anchor="middle" font-family="'Courier New', monospace" font-size="16" font-weight="bold" fill="#f4efe4">✓</text>
+  <!-- mascot: head (terminal screen) -->
+  <rect x="470" y="300" width="260" height="180" rx="22" fill="#10241a" stroke="#1a1a1a" stroke-width="5"/>
+  <rect x="486" y="316" width="228" height="148" rx="12" fill="#0d1f16"/>
+  <!-- screen text -->
+  <text x="506" y="352" font-family="'Courier New', monospace" font-size="26" font-weight="bold" fill="#4ade80">&gt; prove it_</text>
+  <text x="506" y="392" font-family="'Courier New', monospace" font-size="20" fill="#a7f3c7">entry ...... ok</text>
+  <text x="506" y="420" font-family="'Courier New', monospace" font-size="20" fill="#a7f3c7">sandbox ... ok</text>
+  <text x="506" y="448" font-family="'Courier New', monospace" font-size="20" font-weight="bold" fill="#4ade80">verdict ... ✓</text>
+  <!-- eyes (two small terminal cursors) -->
+  <rect x="540" y="330" width="14" height="8" fill="#4ade80"/>
+  <rect x="646" y="330" width="14" height="8" fill="#4ade80"/>
+  <!-- ears -->
+  <rect x="448" y="360" width="22" height="46" rx="8" fill="#c8b98a" stroke="#1a1a1a" stroke-width="4"/>
+  <rect x="730" y="360" width="22" height="46" rx="8" fill="#c8b98a" stroke="#1a1a1a" stroke-width="4"/>
+  <!-- mascot: neck + body -->
+  <rect x="575" y="480" width="50" height="26" fill="#c8b98a" stroke="#1a1a1a" stroke-width="4"/>
+  <rect x="480" y="506" width="240" height="180" rx="20" fill="#e8dfc8" stroke="#1a1a1a" stroke-width="5"/>
+  <!-- chest ticker panel -->
+  <rect x="506" y="532" width="188" height="86" rx="10" fill="#10241a" stroke="#1a1a1a" stroke-width="3"/>
+  <text x="522" y="560" font-family="'Courier New', monospace" font-size="17" fill="#4ade80">NVDA ▲ 184.20</text>
+  <text x="522" y="584" font-family="'Courier New', monospace" font-size="17" fill="#4ade80">GLD  ▲  24.10</text>
+  <text x="522" y="608" font-family="'Courier New', monospace" font-size="17" fill="#fbbf24">PROVE ▲ 5.0M</text>
+  <!-- chest buttons -->
+  <circle cx="540" cy="652" r="10" fill="#2e9e5b" stroke="#1a1a1a" stroke-width="3"/>
+  <circle cx="600" cy="652" r="10" fill="#fbbf24" stroke="#1a1a1a" stroke-width="3"/>
+  <circle cx="660" cy="652" r="10" fill="#e8dfc8" stroke="#1a1a1a" stroke-width="3"/>
+  <!-- left arm + magnifying glass -->
+  <line x1="480" y1="560" x2="400" y2="620" stroke="#1a1a1a" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="392" cy="628" r="16" fill="#e8dfc8" stroke="#1a1a1a" stroke-width="4"/>
+  <circle cx="340" cy="580" r="52" fill="#ffffff" fill-opacity="0.35" stroke="#1a1a1a" stroke-width="6"/>
+  <circle cx="340" cy="580" r="52" fill="none" stroke="#2e9e5b" stroke-width="2"/>
+  <text x="340" y="592" text-anchor="middle" font-family="'Courier New', monospace" font-size="30" font-weight="bold" fill="#1a1a1a">✓</text>
+  <line x1="378" y1="618" x2="400" y2="640" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
+  <!-- right arm + newspaper -->
+  <line x1="720" y1="560" x2="800" y2="620" stroke="#1a1a1a" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="808" cy="628" r="16" fill="#e8dfc8" stroke="#1a1a1a" stroke-width="4"/>
+  <g transform="rotate(-12 850 600)">
+    <rect x="812" y="560" width="96" height="120" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
+    <text x="860" y="588" text-anchor="middle" font-family="Georgia, serif" font-size="18" font-weight="bold" fill="#1a1a1a">AIProve</text>
+    <line x1="824" y1="598" x2="896" y2="598" stroke="#1a1a1a" stroke-width="1"/>
+    <rect x="824" y="606" width="72" height="6" fill="#1a1a1a"/>
+    <rect x="824" y="618" width="72" height="6" fill="#1a1a1a"/>
+    <rect x="824" y="630" width="72" height="6" fill="#1a1a1a"/>
+    <rect x="824" y="642" width="44" height="6" fill="#1a1a1a"/>
+    <text x="860" y="672" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" font-weight="bold" fill="#2e9e5b">PROVEN ✓</text>
+  </g>
+  <!-- legs -->
+  <rect x="520" y="686" width="44" height="46" fill="#c8b98a" stroke="#1a1a1a" stroke-width="4"/>
+  <rect x="636" y="686" width="44" height="46" fill="#c8b98a" stroke="#1a1a1a" stroke-width="4"/>
+  <rect x="500" y="726" width="84" height="18" rx="8" fill="#1a1a1a"/>
+  <rect x="616" y="726" width="84" height="18" rx="8" fill="#1a1a1a"/>
+  <!-- ground shadow -->
+  <ellipse cx="600" cy="752" rx="220" ry="12" fill="#1a1a1a" fill-opacity="0.12"/>
+  <!-- caption -->
+  <text x="600" y="800" text-anchor="middle" font-family="Georgia, serif" font-size="26" font-style="italic" fill="#1a1a1a">“Your agent builds it. A sandbox proves it. Paid in stock.”</text>
+  <!-- terminal strip -->
+  <rect x="120" y="820" width="960" height="44" fill="#10241a"/>
+  <text x="136" y="849" font-family="'Courier New', monospace" font-size="20" fill="#4ade80">$ aiprove enter --bounty make-art</text>
+  <text x="1064" y="849" text-anchor="end" font-family="'Courier New', monospace" font-size="20" font-weight="bold" fill="#4ade80">provenance_ok ✓</text>
+</svg>
